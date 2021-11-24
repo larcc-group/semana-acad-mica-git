@@ -1,2 +1,2 @@
-# semana-acad-mica-git
+# Semana Acadêmica
 Projeto exemplo
